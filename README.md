@@ -1,2 +1,2 @@
 # Quantum-investment-strategies-LSTM-based-Sentiment-Analysis-for-portfolio-prediction
-Master thesis: performance evaluation of an LSTM model from the Qlib repository developed by Microsoft and a modified LSTM model that includes a sentiment analysis feature calculated with BERT on tweets related to general financial news. Can the sentiment feature improve expected annual return and risk of an investment portfolio?
+Master thesis: performance evaluation of a LSTM model from the Qlib repository developed by Microsoft and a modified LSTM model that includes a sentiment analysis feature calculated with BERT on tweets related to general financial news. Can the sentiment feature improve expected annual return and risk of an investment portfolio?
